@@ -1,1 +1,12 @@
 # ML-algo-from-scratch
+- LinearRegression
+- GradientDescent
+- perceptron
+- Logisticregression
+- KNN
+- KMeans
+- DecisionTree
+- RandomForst
+- GradientBoost
+- AdaBoost
+- XGBoost
